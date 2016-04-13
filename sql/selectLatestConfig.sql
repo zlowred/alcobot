@@ -1,0 +1,1 @@
+select * from config where id = (select max(id) from config)

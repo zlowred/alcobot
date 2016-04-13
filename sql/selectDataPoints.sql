@@ -1,0 +1,1 @@
+select * from data where id = (select max(id) from config) order by step

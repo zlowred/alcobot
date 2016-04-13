@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>screens/root.ui</file>
+        <file>img/bot1.png</file>
+        <file>img/bot2.png</file>
+        <file>img/bot3.png</file>
+        <file>img/bot4.png</file>
+    </qresource>
+</RCC>
